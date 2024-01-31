@@ -2,6 +2,7 @@
 - 💬 I'm IT-student studying in Jyväskylä University, Finland
 - 🔭 I’m currently working on python projects
 - 🌱 I’m currently learning more python
+- 😄 Checout my projects
 
 <!--
 **koodariPutti/koodariPutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
