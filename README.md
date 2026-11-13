@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 💬 I'm IT-student studying in Jyväskylä University, Finland
-- ⚡ I'm currently working on chatbot project
 - 😄 Checkout my projects
 
 <!--
